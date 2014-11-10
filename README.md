@@ -1,0 +1,2 @@
+bash-it-splug-theme
+===================
